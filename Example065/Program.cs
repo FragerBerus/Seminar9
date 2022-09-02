@@ -8,7 +8,7 @@ Console.Write("Введите значение, от которого нужно
 int minNumber = int.Parse(Console.ReadLine());
 Console.Write("Введите значение, до которого нужно вывести числа: ");
 int maxNumber = int.Parse(Console.ReadLine());
-if (minNumber > 0 && maxNumber > 0)
+if (minNumber > 0 && maxNumber > 0 && minNumber <= maxNumber)
 {
 // Переделывает строку в число. Переделывает только в целое число,
 // Convert. со монгоими типами. При этом, если в int.Parse будет
