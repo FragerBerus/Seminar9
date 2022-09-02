@@ -1,0 +1,15 @@
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\bin\Debug\net6.0\Example.exe
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\bin\Debug\net6.0\Example.deps.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\bin\Debug\net6.0\Example.runtimeconfig.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\bin\Debug\net6.0\Example.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\bin\Debug\net6.0\Example.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.csproj.AssemblyReference.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.AssemblyInfoInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.AssemblyInfo.cs
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.csproj.CoreCompileInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\refint\Example.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\Example.genruntimeconfig.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9\Example\obj\Debug\net6.0\ref\Example.dll
