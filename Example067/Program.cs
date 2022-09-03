@@ -12,5 +12,4 @@ int SumDigit (int number, int sumDigits)
     if (number / 10 == 0) return number;
     return sumDigits + number % 10 + SumDigit(number / 10, sumDigits);
 }
-Console.WriteLine(SumDigit(number, sumDigits));
-// Console.WriteLine("Сумма цифр числа " + number + " равна " + sumDigits + ".");
+Console.WriteLine("Сумма цифр числа " + number + " равна " + SumDigit(number, sumDigits) + ".");
