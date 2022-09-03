@@ -6,8 +6,9 @@
 Console.Clear();
 Console.Write("Введите число А - основание степени: ");
 int basis = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите число В - показатель степени: ");
+Console.Write("Введите положительное число В - показатель степени: ");
 int indicator = Convert.ToInt32(Console.ReadLine());
+if (indicator < 0) return;
 int Exponentiation (int basis, int indicator)
 {
     if(indicator == 0) return 1;
